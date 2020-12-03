@@ -9,9 +9,9 @@ sudo gem install cocoapods -v 1.5.3
 
 That version is fairly important.
 
-Then install the depenedencies with:
+Then install the dependencies with:
 
-```
+```english
 cd ./ios;
 pod install;
 ```

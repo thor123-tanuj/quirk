@@ -1,3 +1,59 @@
+# Quirk Meaning:
+
+###### A Quirk (個性 Kosei?, lit. "Individuality") is a special, superhuman ability an individual can possess. Quirks are generally unique to their user, and are classified in these categories; Emitter, Transformation, and Mutant.
+
+###### Types: 
+
+## Emitter
+
+### 発動 Hatsudō?, lit. "Activation"
+
+
+
+Emitter-type Quirks have the ability to either release certain substances, or alter materials around them in certain ways. Emitter-type Quirks usually require a conscious effort to activate (such as Electrification, Explosion, and Half-Cold Half-Hot), and some even require large amounts of concentration in order for them to remain active (such as Erasure).
+
+
+
+Emitter-type Quirks can also have various ranges. While some users require physical contact to use them (such as Zero Gravity) others can have much longer ranges with no distance restrictions (such as Navel Laser). While most Emitter-type Quirks users generally have a handle on their own "emissions", it's also possible for users to hurt themselves from coming into too much contact with their quirk (Explosion). The emissions of Emitter-type Quirks can have a wide variety of properties and abilities.
+
+
+
+While some substances produced by Emitter-type Quirks have common properties (Cement), some are unique to the user, and thus have special properties (such is the case with Pop Off). Those who alter the properties of materials around them can also widely vary in effects, from molecular alteration (Softness) to molecular destruction (Decay). Emitter-type Quirks are, by a wide margin, the most common type of Quirk.
+
+
+
+## Transformation
+
+### 変形 Henkei?
+
+
+
+Transformation-type Quirks cause the user to take on a temporary alteration of some kind. Transformation-type Quirks allow the user to temporarily "transform" their body in a variety of manners, sometimes enhancing existing features (Hardening, Gigantification) or perhaps adding new features to the body altogether (Dark Shadow, Tool Arms). Transformation-type Quirks generally affect the user exclusively, the only known exceptions being Recovery and Meatball.
+
+
+
+Transformation-type Quirks usually require a close-range proximity in order to fully utilize them in combat due to them only affecting the user's body. Transformation-type Quirks are also the only known type of Quirk that can bestow the user attributes they do not normally exhibit by default. Transformation-type Quirks usually require a conscious effort by the user to "activate", though most users can be trained to initiate them reflexively (depending on the conditions required for activation). While Transformation-type Quirks are often quite powerful, their biggest weakness is that their effects are often temporary, and over-exertion usually leads to negative repercussions on the user's behalf.
+
+
+
+Because this type of Quirk combines the activation time and mutant-shape aspects of the other Quirk types, it is also often known as Hybrid or Composite. Transformation Quirks seem to be the least common type of Quirk.
+
+
+
+## Mutant
+
+### 異形 Igyō?
+
+
+
+Mutant-type Quirks can have a wide variety of features and abilities depending on the individual, but the common similarity seems to be that these Quirks are a part of the user's physicality. As a result, these Quirks are passively active, but generally, allow the user the greatest degree of control.
+
+
+
+Mutant-type Quirks cause the user to exhibit irregular features that generally have some sort of purpose to them. Whether it be bodily alteration (Vines) or enhancing pre-existing abilities (Engine) Mutant-type Quirks even have the ability to channel certain aspects of their user through them similarly to Emitter-type Quirks (Earphone Jack). While not necessarily a weakness, Mutant-type Quirks cannot be turned off, and sometimes cause the user inconvenience due to their malformations. Such is the case with Mashirao Ojiro and his Tail Quirk, (which makes it difficult for him to sit or lay down) as well as Toru w`f2fu2y and her Transparency Quirk, (which makes it impossible to see her reflection or show up in photographs). While Mutant-type Quirks aren't as common as Emitter-types, they are the most identifiable.
+
+
+
 🚧🚧🚧
 
 **Quirk is no longer being maintained.**
@@ -18,7 +74,7 @@ Now-a-days, we're making [Room Service](https://www.roomservice.dev/), which hel
 
 **Make your own Quirk.**
 
-If you like Quirk and want it to continue, feel free to fork it. We'd ask that you change the name to avoid confusion. Just heed our warning, becareful about the way you keep yourself afloat. 
+If you like Quirk and want it to continue, feel free to fork it. We'd ask that you change the name to avoid confusion. Just heed our warning, be careful about the way you keep yourself afloat. 
 
 If you want to fork Quirk, you should fork off of [this commit](https://github.com/Flaque/quirk/commit/7a4eabe48414de5edfefcd693e79178120eae142), it's right before we added payments and when the code was the cleanest. 
 
@@ -52,7 +108,7 @@ In order for Quirk to support itself, **it charges a small subscription fee.** C
 
 To understand _why_ we do a subscription, we can look to the Survival Law of Product Design, a fancy term I just made up. When you make a product, whatever keeps that product alive becomes the primary force of design. 
 
-For example, facebook.com is not Facebook's product, facebook.com/business/ads is Facebook's product. Because 0 dollars are made from facebook accounts, only from advertisers that pay to get access to those facebook accounts. The way you keep the lights on ultimately shapes the product you make. 
+For example, facebook.com is not Facebook's product, facebook.com/business/ads is Facebook's product. Because 0 dollars are made from Facebook accounts, only from advertisers that pay to get access to those Facebook accounts. The way you keep the lights on ultimately shapes the product you make. 
 
 So if you want to make a good product that helps folks, you should pick a model of sustainability where the financial incentives of the organization are aligned with the individual interests of the users.
 
@@ -73,11 +129,12 @@ Some amazing folks have helped build the Quirk you see today.
 - [@jinto](https://github.com/jinto) for the amazing Korean translation 🇰🇷
 - [@briankung](https://github.com/briankung) for the Chinese 🇨🇳 localization, internationalization support and helping guide the entire translation effort. 🎉
 - [@akinariobi](https://github.com/akinariobi) for the Russian translation 🇷🇺 
-- [@miguelmf](https://github.com/miguelmf) for the Portugese translation 🇵🇹
-- [@comradekingu](https://github.com/comradekingu) for the Norweigan Bokmål translation 🇳🇴
+- [@miguelmf](https://github.com/miguelmf) for the Portuguese translation 🇵🇹
+- [@comradekingu](https://github.com/comradekingu) for the Norwegian Bokmål translation 🇳🇴
 - [@micheleriva](https://github.com/micheleriva) for the Italian translation 🇮🇹
 - [@Jolg42](https://github.com/jolg42) for the French translation 🇫🇷
 - [@Buricescu](https://github.com/Buricescu) for the Romanian translation 🇷🇴
+- [@thor123-tanuj](https://github.com/thor123-tanuj) for changing the top part of quirk and correcting the spelling mistake and grammar errors. A Great Effort!!! 👏👏
 
 ## Running Locally
 
@@ -146,7 +203,7 @@ Quirk is built with two main goals in mind:
 
 **Don't push people to be unhappy.** Do not purposefully or accidentally force people to be unhappy to use their app. Don't force people to state their unhappy in order to access a feature. It's easy for this to sneak up in the design, if a user has to rate their happiness below average in order to access the CBT features, you're asking them to be unhappy to use your app.
 
-**Be extremely cautious about making engagement your core metric.** User engagement is fine to be concerned about. We all want people who need help to be actually engaging in the help. But holy moly becareful about this. You _do not_ want to drive something that is for many people a treatment into a self-perpetuating engagement loop. A ruthless focus on engagement has caused many a product to become skinner boxes. _No one should ever be addicted to your mental health app._
+**Be extremely cautious about making engagement your core metric.** User engagement is fine to be concerned about. We all want people who need help to be actually engaging in the help. But holy moly be careful about this. You _do not_ want to drive something that is for many people a treatment into a self-perpetuating engagement loop. A ruthless focus on engagement has caused many a product to become skinner boxes. _No one should ever be addicted to your mental health app._
 
 # Engineering Logic
 
@@ -181,3 +238,10 @@ A small amount of data has been corrupted in a recoverable way. The user still h
 Quirk is licensed under the [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License), which guarantees end users the freedom to study, share, and modify the software.
 
 Note that this license **does not** give free reign to redistribute the name and branding of quirk. So if you'd like to publish your own version, please rename it to avoid end-user confusion.
+
+
+
+
+
+
+
